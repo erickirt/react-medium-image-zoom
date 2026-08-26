@@ -27,7 +27,6 @@
     "packages/"
   ],
   "rules": {
-    "react/react-compiler": "error",
     "react/exhaustive-deps": "error",
     "react/rules-of-hooks": "error",
 
